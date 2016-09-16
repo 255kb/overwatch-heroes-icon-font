@@ -1,5 +1,7 @@
 # Overwatch Heroes icon font
 
+[![NPM](https://nodei.co/npm/overwatch-heroes-icon-font.png?downloads=true)](https://nodei.co/npm/overwatch-heroes-icon-font/)
+
 ## What is it?
 This icon font allows you to easily use the stylised Overwatch heroes SVG icons created by DCMJS ([view here](http://dcmjs.com/overwatch/)) in all your web projects.
 
