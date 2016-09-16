@@ -1,11 +1,11 @@
 # Overwatch Heroes icon font
 
 ## What is it?
-This icon font allows you to easily use the stylised Overwatch heroes SVG icons created by DCMJS ([view here](http://dcmjs.com/overwatch/)) in all your web projects. 
+This icon font allows you to easily use the stylised Overwatch heroes SVG icons created by DCMJS ([view here](http://dcmjs.com/overwatch/)) in all your web projects.
 
 ## Usage
 
-1. Add `ohi_font.css` file content to your project
+1. Add `dist` folder to your project (font files and `ohi_font.css` file content)
 2. Use a class prefixed by `ohi-` (like Overwatch Heroes Icon) and followed by the hero's name to display the icon and style it like any other text font:
 
     ```
