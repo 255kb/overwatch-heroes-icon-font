@@ -1,0 +1,31 @@
+{
+  "name": "overwatch-heroes-icon-font",
+  "version": "1.0.0",
+  "description": "Icon font for all 21 Overwatch heroes",
+  "main": "dist/ohi_font.css",
+  "authors": [
+    "Guillaume <hi@guillaumemonnet.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "overwatch",
+    "icon",
+    "font"
+  ],
+  "homepage": "https://github.com/255kb/overwatch-heroes-icon-font",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/255kb/overwatch-heroes-icon-font.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.12"
+  }
+}
