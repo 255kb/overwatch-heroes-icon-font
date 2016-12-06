@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Icon font for all 21 Overwatch heroes",
   "scripts": {
-    "gulp watch": "gulp watch"
+    "gulp-watch": "gulp watch"
   },
   "repository": {
     "type": "git",
