@@ -43,4 +43,4 @@ List of available heroes (21):
 ## License / Credits
 
 This font uses [DCMJS](https://twitter.com/dcmjs)'s SVG icons inspired by Blizzard artworks. For more information about icons' license please check DCMJS's [website](http://dcmjs.com/overwatch/).
-The font itself is released under an MIT license (see `LICENSE_font.md` file).
+The font itself is released under an MIT license (see `LICENSE.md` file).

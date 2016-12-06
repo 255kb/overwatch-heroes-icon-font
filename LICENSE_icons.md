@@ -1,1 +1,0 @@
-This font uses [DCMJS](https://twitter.com/dcmjs)'s SVG icons inspired by Blizzard artworks. For more information about icons' license please check DCMJS's [website](http://dcmjs.com/overwatch/).
