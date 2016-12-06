@@ -3,7 +3,7 @@
 [![NPM](https://nodei.co/npm/overwatch-heroes-icon-font.png?downloads=true)](https://nodei.co/npm/overwatch-heroes-icon-font/)
 
 ## What is it?
-This icon font allows you to easily use the stylised Overwatch heroes SVG icons created by DCMJS ([view here](http://dcmjs.com/overwatch/)) in all your web projects.
+This icon font allows you to easily use the stylised Overwatch heroes SVG icons created by DCMJS ([GitHub](https://github.com/dcmjs)/[Site](http://dcmjs.com/overwatch/)) and [Polygonine](https://github.com/Polygonine) in all your web projects.
 
 ## Usage
 
@@ -42,5 +42,5 @@ List of available heroes (21):
 
 ## License / Credits
 
-This font uses [DCMJS](https://twitter.com/dcmjs)'s SVG icons inspired by Blizzard artworks. For more information about icons' license please check DCMJS's [website](http://dcmjs.com/overwatch/).
+This font uses [DCMJS](https://twitter.com/dcmjs)'s [SVG icons](http://dcmjs.com/overwatch/) and [Polygonine](https://github.com/Polygonine) SVG for Ana and Sombra icons.
 The font itself is released under an MIT license (see `LICENSE.md` file).
