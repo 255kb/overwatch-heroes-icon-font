@@ -4,7 +4,7 @@
   "description": "Icon font for all 21 Overwatch heroes",
   "main": "dist/ohi_font.css",
   "authors": [
-    "Guillaume <hi@guillaumemonnet.com>"
+    "Guillaume Monnet <hi@255kb.com>"
   ],
   "license": "MIT",
   "keywords": [
