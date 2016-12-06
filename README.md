@@ -14,10 +14,11 @@ This icon font allows you to easily use the stylised Overwatch heroes SVG icons 
         <span class="ohi-bastion"></span>
     ```
 
-List of available heroes (21):
+List of available heroes (23):
 
 |Hero name|class|
 |-------------|:-------------:|
+|Ana|ohi-ana|
 |Bastion|ohi-bastion|
 |D.VA|ohi-dva|
 |Genji|ohi-genji|
@@ -32,6 +33,8 @@ List of available heroes (21):
 |Reinhardt|ohi-reinhardt|
 |Roadhog|ohi-roadhog|
 |Soldier: 76|ohi-soldier76|
+|Sombra|ohi-sombra|
+|Sombra (ultimate version)|ohi-sombra2|
 |Symmetra|ohi-symmetra|
 |Torbjörn|ohi-torbjorn|
 |Tracer|ohi-tracer|

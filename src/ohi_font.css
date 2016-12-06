@@ -1,107 +1,120 @@
 @font-face {
-    font-family: 'overwatch-heroes';
-    src: url('font/overwatch-heroes.ttf?rql2oo') format('truetype'),
-    url('font/overwatch-heroes.woff?rql2oo') format('woff'),
-    url('font/overwatch-heroes.svg?rql2oo#overwatch-heroes') format('svg');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'overwatch-heroes';
+  src:
+    url('font/overwatch-heroes.ttf?hi0cda') format('truetype'),
+    url('font/overwatch-heroes.woff?hi0cda') format('woff'),
+    url('font/overwatch-heroes.svg?hi0cda#overwatch-heroes') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
 [class^="ohi-"], [class*=" ohi-"] {
-    /* use !important to prevent issues with browser extensions that change fonts */
-    font-family: 'overwatch-heroes' !important;
-    speak: none;
-    font-style: normal;
-    font-weight: normal;
-    font-variant: normal;
-    text-transform: none;
-    line-height: 1;
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'overwatch-heroes' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
 
-    /* Better Font Rendering =========== */
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ohi-ana:before {
+  content: "\e915";
+}
+
+.ohi-sombra:before {
+  content: "\e916";
+}
+
+.ohi-sombra2:before {
+  content: "\e917";
 }
 
 .ohi-bastion:before {
-    content: "\e900";
+  content: "\e900";
 }
 
 .ohi-dva:before {
-    content: "\e901";
+  content: "\e901";
 }
 
 .ohi-genji:before {
-    content: "\e902";
+  content: "\e902";
 }
 
 .ohi-hanzo:before {
-    content: "\e903";
+  content: "\e903";
 }
 
 .ohi-junkrat:before {
-    content: "\e904";
+  content: "\e904";
 }
 
 .ohi-lucio:before {
-    content: "\e905";
+  content: "\e905";
 }
 
 .ohi-mccree:before {
-    content: "\e906";
+  content: "\e906";
 }
 
 .ohi-mei:before {
-    content: "\e907";
+  content: "\e907";
 }
 
 .ohi-mercy:before {
-    content: "\e908";
+  content: "\e908";
 }
 
 .ohi-pharah:before {
-    content: "\e909";
+  content: "\e909";
 }
 
 .ohi-reaper:before {
-    content: "\e90a";
+  content: "\e90a";
 }
 
 .ohi-reinhardt:before {
-    content: "\e90b";
+  content: "\e90b";
 }
 
 .ohi-roadhog:before {
-    content: "\e90c";
+  content: "\e90c";
 }
 
 .ohi-soldier76:before {
-    content: "\e90d";
+  content: "\e90d";
 }
 
 .ohi-symmetra:before {
-    content: "\e90e";
+  content: "\e90e";
 }
 
 .ohi-torbjorn:before {
-    content: "\e90f";
+  content: "\e90f";
 }
 
 .ohi-tracer:before {
-    content: "\e910";
+  content: "\e910";
 }
 
 .ohi-widowmaker:before {
-    content: "\e911";
+  content: "\e911";
 }
 
 .ohi-winston:before {
-    content: "\e912";
+  content: "\e912";
 }
 
 .ohi-zarya:before {
-    content: "\e913";
+  content: "\e913";
 }
 
 .ohi-zenyatta:before {
-    content: "\e914";
+  content: "\e914";
 }

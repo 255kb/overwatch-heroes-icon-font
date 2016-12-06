@@ -1,7 +1,7 @@
 {
   "name": "overwatch-heroes-icon-font",
-  "version": "1.0.0",
-  "description": "Icon font for all 21 Overwatch heroes",
+  "version": "1.1.0",
+  "description": "Icon font for all Overwatch heroes",
   "scripts": {
     "gulp-watch": "gulp watch"
   },
