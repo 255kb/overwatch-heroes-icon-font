@@ -3,7 +3,11 @@
 [![NPM](https://nodei.co/npm/overwatch-heroes-icon-font.png?downloads=true)](https://nodei.co/npm/overwatch-heroes-icon-font/)
 
 ## What is it?
-This icon font allows you to easily use the stylized Overwatch heroes SVG icons created by DCMJS ([GitHub](https://github.com/dcmjs)/[Site](http://dcmjs.com/overwatch/)) and [Polygonine](https://github.com/Polygonine) in all your web projects.
+This icon font allows you to easily use the stylized Overwatch heroes SVG icons in all your web projects.
+The icons have been created by:
+- [DCMJS](http://dcmjs.com/overwatch/) (initial icons pack)
+- [Polygonine](https://github.com/Polygonine) (Ana and Sombra)
+- [YoshinoYoshie](http://yoshinoyoshie.deviantart.com/) (Orisa)
 
 ## Usage
 
@@ -14,7 +18,7 @@ This icon font allows you to easily use the stylized Overwatch heroes SVG icons 
         <span class="ohi-bastion"></span>
     ```
 
-List of available heroes (23):
+List of available heroes (24):
 
 |Hero name|class|
 |-------------|:-------------:|
@@ -28,6 +32,7 @@ List of available heroes (23):
 |Mccree|ohi-mccree|
 |Mei|ohi-mei|
 |Mercy|ohi-mercy|
+|Orisa|ohi-orisa|
 |Pharah|ohi-pharah|
 |Reaper|ohi-reaper|
 |Reinhardt|ohi-reinhardt|
@@ -45,5 +50,9 @@ List of available heroes (23):
 
 ## License / Credits
 
-This font uses [DCMJS](https://twitter.com/dcmjs)'s [SVG icons](http://dcmjs.com/overwatch/) and [Polygonine](https://github.com/Polygonine) SVG for Ana and Sombra icons.
+This font uses icons from:
+- [DCMJS](http://dcmjs.com/overwatch/) (initial icons pack)
+- [Polygonine](https://github.com/Polygonine) (Ana and Sombra)
+- [YoshinoYoshie](http://yoshinoyoshie.deviantart.com/) (Orisa)
+
 The font itself is released under an MIT license (see `LICENSE.md` file).

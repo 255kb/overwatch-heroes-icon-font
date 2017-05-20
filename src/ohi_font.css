@@ -23,6 +23,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.ohi-orisa:before {
+  content: "\e918";
+}
+
 .ohi-ana:before {
   content: "\e915";
 }
